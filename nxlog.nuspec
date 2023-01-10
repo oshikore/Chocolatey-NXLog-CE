@@ -4,7 +4,7 @@
     <id>nxlog-ce</id>
     <version>3.1.2319</version>
     <title>NXLog Community Edition</title>
-    <authors>james.crowley,petemounce,kurtglastetter,mykola.shestopal,oshikore</authors>
+    <authors>james.crowley,petemounce,kurtglastetter,mykola.shestopal,gabor.horvath</authors>
     <owners>oshikore</owners>
     <licenseUrl>https://nxlog.co/nxlog-public-license</licenseUrl>
     <projectUrl>https://nxlog.co/products/nxlog-community-edition</projectUrl>
@@ -31,7 +31,7 @@
     </releaseNotes>
     <copyright>Copyright 2016 nxlog.co. All rights reserved.</copyright>
     <tags>nxlog syslog admin</tags>
-    <packageSourceUrl>https://github.com/jamescrowley/Chocolatey-NxLog</packageSourceUrl>
+    <packageSourceUrl>https://github.com/oshikore/Chocolatey-NXLog-CE</packageSourceUrl>
     <docsUrl>https://docs.nxlog.co/ce/current/index.html</docsUrl>
     <bugTrackerUrl>https://gitlab.com/nxlog-public/nxlog-ce/-/issues</bugTrackerUrl>
   </metadata>
