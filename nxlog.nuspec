@@ -14,20 +14,21 @@
     <summary>nxlog - A universal multi-platform log collector and forwarder</summary>
     <releaseNotes>### 2022-10-03 3.1.2319
 
- - [4631] Fixed a timezone issue in xm_msdns when parsing a date string
- - [4613] Fixed memory leak in om_python
- - [4555] Updated openssl to 1.1.1q in windows and docker image to RockyLinux9 to address CVE-2020-1971 and CVE-2020-1968
- - [3844] Fixed parsing error in om_raijin
- - [3712] Fixed syslog severity in xm_syslog
- - [4539] Added support for Redhat 9
- - [4251] Added support for Ubuntu 22
- - [3854] Fixed inconsistencies in the default nxlog-ce config
- - [4450] Fixed a crash caused by a double free in om_ssl socket 
+    - [4631] Fixed a timezone issue in xm_msdns when parsing a date string
+    - [4613] Fixed memory leak in om_python
+    - [4555] Updated openssl to 1.1.1q in windows and docker image to RockyLinux9 to address CVE-2020-1971 and CVE-2020-1968
+    - [3844] Fixed parsing error in om_raijin
+    - [3712] Fixed syslog severity in xm_syslog
+    - [4539] Added support for Redhat 9
+    - [4251] Added support for Ubuntu 22
+    - [3854] Fixed inconsistencies in the default nxlog-ce config
+    - [4450] Fixed a crash caused by a double free in om_ssl socket 
 
- ### Errata
+    ### Errata
 
     om_file's `file_name()` function is currently broken.
 
+    </releaseNotes>
     <copyright>Copyright 2016 nxlog.co. All rights reserved.</copyright>
     <tags>nxlog syslog admin</tags>
     <packageSourceUrl>https://github.com/jamescrowley/Chocolatey-NxLog</packageSourceUrl>

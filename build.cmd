@@ -1,1 +1,1 @@
-call cpack nxlog.nuspec
+choco pack
