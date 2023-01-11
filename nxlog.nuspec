@@ -10,8 +10,8 @@
     <projectUrl>https://nxlog.co/products/nxlog-community-edition</projectUrl>
     <iconUrl>https://nxlog.co/images/frontoffice/login/nxlog-icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>nxlog is a modular, multi-threaded, high-performance log management solution with multi-platform support. In concept it is similar to syslog-ng or rsyslog but is not limited to unix/syslog only. It can collect logs from files in various formats, receive logs from the network remotely over UDP, TCP or TLS/SSL . It supports platform specific sources such as the Windows Eventlog, Linux kernel logs, Android logs, local syslog etc. Writing and reading logs to/from databases is also supported.</description>
-    <summary>nxlog - A universal multi-platform log collector and forwarder</summary>
+    <description>nxlog is a modular, multi-threaded, high-performance log management solution with multi-platform support. In concept it is similar to syslog-ng or rsyslog but is not limited to unix/syslog only. It can collect logs from files in various formats, receive logs from the network remotely over UDP, TCP or TLS/SSL . It supports platform specific sources such as the Windows Eventlog, Linux kernel logs, local syslog etc. Writing and reading logs to/from databases is also supported.</description>
+    <summary>NXLog Community Edition - A universal multi-platform log collector and forwarder</summary>
     <releaseNotes>### 2022-10-03 3.1.2319
 
     - [4631] Fixed a timezone issue in xm_msdns when parsing a date string
